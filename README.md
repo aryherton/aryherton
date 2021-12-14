@@ -20,7 +20,7 @@
 <img align="center" alt="HTML 5" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </div><br />
 
- A paixão por tecnologia e sempre em busca de conhecimento, atualmente estudando na escola de programação Trybe. Um ano mergulhando no mundo da programação de forma intensa.
+ Apaixonado por tecnologia e sempre em busca de conhecimento, atualmente estudando na escola de programação Trybe. Um ano mergulhando no mundo da programação de forma intensa.
 
  ### E-mail:
  #### aryhetonbarbosa@gmail.com
