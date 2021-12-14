@@ -1,5 +1,5 @@
 ## Olá! Eu sou Ary Barbosa.![Alt text](https://i.imgur.com/r9MXIro.png)
-### Sejá bem vindo ao meu github!
+### Seja bem-vindo ao meu github!
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aryherton_B)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev40graus/)
