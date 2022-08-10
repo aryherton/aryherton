@@ -8,6 +8,10 @@
 
 ![Ary Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=aryherton&show_icons=true&theme=merko)
 
+ Apaixonado por tecnologia e sempre em busca de conhecimento, atualmente estudando na escola de programação Trybe. Um ano mergulhando no mundo da programação de forma intensa.
+
+ ### E-mail: aryhetonbarbosa@gmail.com
+
 ## Tecnologias
 
 <div>
@@ -34,7 +38,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryherton&theme=tokyonight)
 
- Apaixonado por tecnologia e sempre em busca de conhecimento, atualmente estudando na escola de programação Trybe. Um ano mergulhando no mundo da programação de forma intensa.
-
- ### E-mail:
- #### aryhetonbarbosa@gmail.com
